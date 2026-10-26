@@ -1,4 +1,0 @@
-﻿# Fundação: SOV-TOPO v1.0.0
-
-
-Status: investigating why the sponsor button is not appearing after FUNDING.yml configuration.
