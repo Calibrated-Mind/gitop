@@ -1,5 +1,5 @@
 # SOVEREIGN PIPELINE - GITOP ENGINE
-## Operational Flow & Execution Matrix
+## Operational Flow & Execution Matrix.
 
 ---
 
